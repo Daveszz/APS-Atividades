@@ -1,4 +1,4 @@
-# Revisão Abrangente: Atributos de Projeto, Análise de Requisitos, Brainstorming e Metodologias Ágeis
+# Revisão: Atributos de Projeto, Análise de Requisitos, Brainstorming e Metodologias Ágeis
 
 Ao abordar o desenvolvimento de sistemas de software, é essencial entender e aplicar uma variedade de conceitos e técnicas para garantir o sucesso do projeto. Nesta revisão, exploramos quatro áreas-chave: atributos de projeto, análise de requisitos, brainstorming e metodologias ágeis.
 
@@ -31,3 +31,9 @@ Em resumo, ao integrar uma compreensão profunda dos atributos de projeto, uma a
 6. Defina o que podemos usar para gerenciar um projeto com eficiencia e todos fiquem inteirados do andamento do mesmo?
 
 7. De qual maneira podemos ter o controle dos passos em que estamos no projeto? E quais são esses passos?
+
+*Referencias*: Brainstorming: https://rockcontent.com/br/blog/brainstorming/
+Metodologias Ageis: https://rockcontent.com/br/blog/metodologias-ageis/
+Analise de Requisitos: https://www.next4.com.br/analise-de-requisitos-o-que-saber-para-desenvolver-seu-projeto/
+Gerenciamento de Projeto: https://www.devmedia.com.br/gerenciamento-de-projetos-web-utilizando-scrum/32553
+Scrum: https://fia.com.br/blog/scrum/#:~:text=O%20que%20%C3%A9%20um%20m%C3%A9todo,iterativo%20e%20adaptativo%20de%20produtos.
